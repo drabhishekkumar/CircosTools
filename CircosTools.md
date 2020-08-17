@@ -56,13 +56,15 @@ Circos for Genomics and Transcriptomics Data Visualization (CGDV)		WT		https://c
 CiVi		PY, JS		http://www.cbs.dtu.dk/services/gwBrowser	[22]
 
 **#Programming Languages: J – Java; JS – Javascript; PL – Perl; PY – Python; R – R-programming language; RU – Ruby, WT - Webtool
-
+-------
 **$Operating system: L- Linux, Mo - Mac OS, Wi - Windows, U - Unix
-
+-------
 
 **References
 -------
+
 1.	Parveen, A.; Khurana, S.; Kumar, A., Overview of Genomic Tools for Circular Visualization in the Next-generation Genomic Sequencing Era. Curr Genomics 2019, 20, (2), 90-99.
+-----------
 2.	Grin, I.; Linke, D., GCView: the genomic context viewer for protein homology searches. Nucleic Acids Res 2011, 39, (Web Server issue), W353-6.
 3.	Grant, J. R.; Stothard, P., The CGView Server: a comparative genomics tool for circular genomes. Nucleic Acids Res 2008, 36, (Web Server issue), W181-4.
 4.	Petkau, A.; Stuart-Edwards, M.; Stothard, P.; Van Domselaar, G., Interactive microbial genome visualization with GView. Bioinformatics 2010, 26, (24), 3125-6.
