@@ -1,7 +1,7 @@
 
 **Application of Circular visualization of genomic data, based on Parveen et al [1].
 --------------------
-**Tool	Input	Programming language**	OS*	website Refs.
+**Tool	Input	Programming language#	OS$	website Refs.
 ------------
 Circular Genome Viewer (GCView)	FASTA protein sequences, protein GI, UniProt.
 	J		http://wishart.biology.ualberta.ca/cgview/	[2]
@@ -55,8 +55,9 @@ Circos for Genomics and Transcriptomics Data Visualization (CGDV)		WT		https://c
 
 CiVi		PY, JS		http://www.cbs.dtu.dk/services/gwBrowser	[22]
 
-*Programming Language: J – Java; JS – Javascript; PL – Perl; PY – Python; R – R-programming language; RU – Ruby, WT - Webtool
-**Operating system: L- Linux, Mo - Mac OS, Wi - Windows, U - Unix
+**#Programming Languages: J – Java; JS – Javascript; PL – Perl; PY – Python; R – R-programming language; RU – Ruby, WT - Webtool
+
+**$Operating system: L- Linux, Mo - Mac OS, Wi - Windows, U - Unix
 
 
 **References
