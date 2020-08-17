@@ -3,61 +3,106 @@
 --------------------
 **Tool	Input	Programming language#	OS$	website Refs.
 ------------
-Circular Genome Viewer (GCView)	FASTA protein sequences, protein GI, UniProt.
-	J		http://wishart.biology.ualberta.ca/cgview/	[2]
+
+Circular Genome Viewer (GCView)	FASTA protein sequences, protein GI, UniProt. J		http://wishart.biology.ualberta.ca/cgview/	[2]
+
+-------
 
 GCView server				http://stothard.afns.ualberta.ca/cgview_server/	[3]
 
+-------
+
 GView				https://www.gview.ca/	[4]
 
+-------
+
 GView server				https://server.gview.ca/	
+
+-------
+
 CGView Comparison Tool (CCT) 				http://stothard.afns.ualberta.ca/downloads/CCT/				
+
+-------
 
 BLAST Ring Image Generator (BRIG)	 http://sourceforge.net/projects/brig/.
 [5]
 
+-------
+
 GenomeDiagram		PY			[6] 
+
+-------
 
 GenomeVx	Flat file of GeneBank	C++ program		http://wolfe.ucd.ie/GenomeVx/	[7]
 
+-------
+
 Circos	GFF-style data	PL			[8]
+
+-------
 
 DNAPlotter	Sequence formats	J			[9] 
 
+-------
+
 Circoletto	Fasta format	PL			[10]
+
+-------
 
 Circleator
 	GenBank Sequence Alignment/SAM or BAM format	PL			[11]
 
+-------
+
 RCircos	Specific data frame	R			[12]
+
+-------
 
 Circlize	Specific data frame	R			[13]
 
+-------
+
 OmicCircos	Specified matrix data	R			[14]
+
+-------
 
 Circular Interactive Layout Converter Free Services (clicO FS)	Three type of file: Karyotype, Data, Configuration file.	RU		http://clicofs.codoncloud.com
 	[15]
 
+-------
+
 CIRCUS	SAM, BAM, Annotation, CNV and, variant files.	R			[16] 
+
+-------
 
 CircosVCF	VCF file	WT			[17]
 
+-------
+
 J-Circos	Flat file format 	JS			
 
+-------
+
 BioCircos.js		JS			[18]
+
 -----------
 Interactive Protein Sequence Visualization (I-PV)	Protein sequence, conservation and SNV data PL			[19] 
+
 -----------
 SOFIA		R			[20]
+
 -----------
 Circos for Genomics and Transcriptomics Data Visualization (CGDV)		WT		https://cgdv-upload.persistent.co.in/cgdv/	[21]
+
 -----------
 CiVi		PY, JS		http://www.cbs.dtu.dk/services/gwBrowser	[22]
+
 -----------
+
 **#Programming Languages: J – Java; JS – Javascript; PL – Perl; PY – Python; R – R-programming language; RU – Ruby, WT - Webtool
 -------
 **$Operating system: L- Linux, Mo - Mac OS, Wi - Windows, U - Unix
--------
+
 
 **References
 -------
