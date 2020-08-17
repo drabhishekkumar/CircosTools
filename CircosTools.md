@@ -45,16 +45,15 @@ CircosVCF	VCF file	WT			[17]
 J-Circos	Flat file format 	JS			
 
 BioCircos.js		JS			[18]
-
-Interactive Protein Sequence Visualization (I-PV)	Protein sequence, conservation and SNV data
-	PL			[19] 
-
+-----------
+Interactive Protein Sequence Visualization (I-PV)	Protein sequence, conservation and SNV data PL			[19] 
+-----------
 SOFIA		R			[20]
-
+-----------
 Circos for Genomics and Transcriptomics Data Visualization (CGDV)		WT		https://cgdv-upload.persistent.co.in/cgdv/	[21]
-
+-----------
 CiVi		PY, JS		http://www.cbs.dtu.dk/services/gwBrowser	[22]
-
+-----------
 **#Programming Languages: J – Java; JS – Javascript; PL – Perl; PY – Python; R – R-programming language; RU – Ruby, WT - Webtool
 -------
 **$Operating system: L- Linux, Mo - Mac OS, Wi - Windows, U - Unix
