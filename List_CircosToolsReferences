@@ -1,0 +1,29 @@
+
+Application of Circular visualization of genomic data.
+
+
+
+
+Referenves
+1.	Grin, I.; Linke, D., GCView: the genomic context viewer for protein homology searches. Nucleic Acids Res 2011, 39, (Web Server issue), W353-6.
+2.	Grant, J. R.; Stothard, P., The CGView Server: a comparative genomics tool for circular genomes. Nucleic Acids Res 2008, 36, (Web Server issue), W181-4.
+3.	Petkau, A.; Stuart-Edwards, M.; Stothard, P.; Van Domselaar, G., Interactive microbial genome visualization with GView. Bioinformatics 2010, 26, (24), 3125-6.
+4.	Alikhan, N. F.; Petty, N. K.; Ben Zakour, N. L.; Beatson, S. A., BLAST Ring Image Generator (BRIG): simple prokaryote genome comparisons. BMC Genomics 2011, 12, 402.
+5.	Pritchard, L.; White, J. A.; Birch, P. R.; Toth, I. K., GenomeDiagram: a python package for the visualization of large-scale genomic data. Bioinformatics 2006, 22, (5), 616-7.
+6.	Conant, G. C.; Wolfe, K. H., GenomeVx: simple web-based creation of editable circular chromosome maps. Bioinformatics 2008, 24, (6), 861-2.
+7.	Krzywinski, M.; Schein, J.; Birol, I.; Connors, J.; Gascoyne, R.; Horsman, D.; Jones, S. J.; Marra, M. A., Circos: an information aesthetic for comparative genomics. Genome Res 2009, 19, (9), 1639-45.
+8.	Carver, T.; Thomson, N.; Bleasby, A.; Berriman, M.; Parkhill, J., DNAPlotter: circular and linear interactive genome visualization. Bioinformatics 2009, 25, (1), 119-20.
+9.	Darzentas, N., Circoletto: visualizing sequence similarity with Circos. Bioinformatics 2010, 26, (20), 2620-1.
+10.	Crabtree, J.; Agrawal, S.; Mahurkar, A.; Myers, G. S.; Rasko, D. A.; White, O., Circleator: flexible circular visualization of genome-associated data with BioPerl and SVG. Bioinformatics 2014, 30, (21), 3125-7.
+11.	Zhang, H.; Meltzer, P.; Davis, S., RCircos: an R package for Circos 2D track plots. BMC Bioinformatics 2013, 14, 244.
+12.	Gu, Z.; Gu, L.; Eils, R.; Schlesner, M.; Brors, B., circlize Implements and enhances circular visualization in R. Bioinformatics 2014, 30, (19), 2811-2.
+13.	Hu, Y.; Yan, C.; Hsu, C. H.; Chen, Q. R.; Niu, K.; Komatsoulis, G. A.; Meerzaman, D., OmicCircos: A Simple-to-Use R Package for the Circular Visualization of Multidimensional Omics Data. Cancer Inform 2014, 13, 13-20.
+14.	Cheong, W. H.; Tan, Y. C.; Yap, S. J.; Ng, K. P., ClicO FS: an interactive web-based service of Circos. Bioinformatics 2015, 31, (22), 3685-7.
+15.	Naquin, D.; d'Aubenton-Carafa, Y.; Thermes, C.; Silvain, M., CIRCUS: a package for Circos display of structural genome variations from paired-end and mate-pair sequencing data. BMC Bioinformatics 2014, 15, 198.
+16.	Drori, E.; Levy, D.; Smirin-Yosef, P.; Rahimi, O.; Salmon-Divon, M., CircosVCF: circos visualization of whole-genome sequence variations stored in VCF files. Bioinformatics 2017, 33, (9), 1392-1393.
+17.	Cui, Y.; Chen, X.; Luo, H.; Fan, Z.; Luo, J.; He, S.; Yue, H.; Zhang, P.; Chen, R., BioCircos.js: an interactive Circos JavaScript library for biological data visualization on web applications. Bioinformatics 2016, 32, (11), 1740-2.
+18.	Tanyalcin, I.; Al Assaf, C.; Gheldof, A.; Stouffs, K.; Lissens, W.; Jansen, A. C., I-PV: a CIRCOS module for interactive protein sequence visualization. Bioinformatics 2016, 32, (3), 447-9.
+19.	Diaz-Garcia, L.; Covarrubias-Pazaran, G.; Schlautman, B.; Zalapa, J., SOFIA: An R Package for Enhancing Genetic Visualization With Circos. Journal of Heredity 2017, 108, (4), 443-448.
+20.	Jha, V.; Singh, G.; Kumar, S.; Sonawane, A.; Jere, A.; Anamika, K., CGDV: a webtool for circular visualization of genomics and transcriptomics data. BMC Genomics 2017, 18, (1), 823.
+21.	Overmars, L.; van Hijum, S. A.; Siezen, R. J.; Francke, C., CiVi: circular genome visualization with unique features to analyze sequence elements. Bioinformatics 2015, 31, (17), 2867-9.
+
